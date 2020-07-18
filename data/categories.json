@@ -26,7 +26,7 @@
   },
   {
     "name" : "Mindfulness",
-    "url" : ""
+    "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Mindfulness.jpg"
   },
   {
     "name" : "Personal Growth",
@@ -44,6 +44,5 @@
     "name" : "Success",
     "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Success.jpg"
   }
-  ] 
-  
+  ]  
 }
