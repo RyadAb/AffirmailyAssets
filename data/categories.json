@@ -1,0 +1,49 @@
+{
+  "categories": [
+  {
+    "name" : "Abundance",
+    "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Abundance.jpg"
+  },
+  {
+    "name" : "Business",
+    "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Bussiness.jpg"
+  },
+  {
+    "name" : "Career",
+    "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Career.png"
+  },
+  {
+    "name" : "Happiness",
+    "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Happiness.jpg"
+  },
+  {
+    "name" : "Love",
+    "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Love.jpg"
+  },
+  {
+    "name" : "Mental Health",
+    "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Mental%20Health.jpg"
+  },
+  {
+    "name" : "Mindfulness",
+    "url" : ""
+  },
+  {
+    "name" : "Personal Growth",
+    "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Personal%20Growth.jpg"
+  },
+  {
+    "name" : "Physical Health",
+    "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Physical%20Health.jpg"
+  },
+  {
+    "name" : "Relationships",
+    "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Relationships.jpg"
+  },
+  {
+    "name" : "Success",
+    "url" : "https://raw.githubusercontent.com/RyadAb/AffirmailyAssets/master/assests/Success.jpg"
+  }
+  ] 
+  
+}
